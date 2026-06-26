@@ -68,7 +68,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kpgRibpIZsiddVrAp_pB-105" value="&lt;span style=&quot;font-weight: normal; font-size: 18px;&quot;&gt;&amp;nbsp;Skip Transpiler Plugin&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;fontStyle=1;labelBackgroundColor=none;" parent="kpgRibpIZsiddVrAp_pB-104" vertex="1" connectable="0">
+        <mxCell id="kpgRibpIZsiddVrAp_pB-105" value="&lt;span style=&quot;font-weight: normal; font-size: 18px;&quot;&gt;&amp;nbsp;skipstone plugin&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;fontStyle=1;labelBackgroundColor=none;" parent="kpgRibpIZsiddVrAp_pB-104" vertex="1" connectable="0">
           <mxGeometry x="0.0863" relative="1" as="geometry">
             <mxPoint x="8" y="-14" as="offset" />
           </mxGeometry>
@@ -156,7 +156,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JpNpzkPMZi4xFwTM5_w0-4" value="&lt;span style=&quot;font-weight: normal; font-size: 18px;&quot;&gt;&amp;nbsp;Skip Transpiler&amp;nbsp;&lt;font style=&quot;font-size: 18px;&quot;&gt;Plugin&lt;/font&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;fontStyle=1;labelBackgroundColor=none;" parent="JpNpzkPMZi4xFwTM5_w0-3" vertex="1" connectable="0">
+        <mxCell id="JpNpzkPMZi4xFwTM5_w0-4" value="&lt;span style=&quot;font-weight: normal; font-size: 18px;&quot;&gt;&amp;nbsp;skipstone pluginamp;nbsp;&lt;font style=&quot;font-size: 18px;&quot;&gt;Plugin&lt;/font&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;fontStyle=1;labelBackgroundColor=none;" parent="JpNpzkPMZi4xFwTM5_w0-3" vertex="1" connectable="0">
           <mxGeometry x="0.0863" relative="1" as="geometry">
             <mxPoint x="1" y="-12" as="offset" />
           </mxGeometry>
@@ -244,7 +244,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1Nkree-5bMbzlfmYA3V_-5" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;Skip Transpiler Plugin&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;fontStyle=0;labelBackgroundColor=none;" parent="1Nkree-5bMbzlfmYA3V_-4" vertex="1" connectable="0">
+        <mxCell id="1Nkree-5bMbzlfmYA3V_-5" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;skipstone plugin&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;fontStyle=0;labelBackgroundColor=none;" parent="1Nkree-5bMbzlfmYA3V_-4" vertex="1" connectable="0">
           <mxGeometry x="0.0863" relative="1" as="geometry">
             <mxPoint x="3" y="-17" as="offset" />
           </mxGeometry>
