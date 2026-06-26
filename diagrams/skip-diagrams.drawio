@@ -166,7 +166,7 @@
             <mxPoint x="736" y="14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JpNpzkPMZi4xFwTM5_w0-7" value="Swift XCTest Source" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#fff2cc;strokeColor=#d6b656;fillStyle=auto;" parent="1" vertex="1">
+        <mxCell id="JpNpzkPMZi4xFwTM5_w0-7" value="Swift Test Source" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#fff2cc;strokeColor=#d6b656;fillStyle=auto;" parent="1" vertex="1">
           <mxGeometry x="129.69" y="195" width="264" height="100" as="geometry" />
         </mxCell>
         <mxCell id="JpNpzkPMZi4xFwTM5_w0-8" value="Local Tests&lt;br&gt;&lt;sub&gt;(macOS)&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -430,7 +430,7 @@
             <mxPoint x="736" y="14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="baZupCLtGflhTfUBvAym-6" value="Swift XCTest Source" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#fff2cc;strokeColor=#d6b656;fillStyle=auto;" vertex="1" parent="1">
+        <mxCell id="baZupCLtGflhTfUBvAym-6" value="Swift Test Source" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#fff2cc;strokeColor=#d6b656;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="129.69" y="195" width="264" height="100" as="geometry" />
         </mxCell>
         <mxCell id="baZupCLtGflhTfUBvAym-7" value="Local Tests&lt;br&gt;&lt;sub&gt;(macOS)&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
